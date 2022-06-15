@@ -9,6 +9,6 @@ Each directory contains C codes and relative C libraries for the project.
   
 ## Index
 0001.IRIG-B Encoder&Decoder  
-0002.Digital Clock with ℃
+0002.Digital Clock with ℃  
 0003.PID Speed Control  
 
